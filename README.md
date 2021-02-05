@@ -5,6 +5,7 @@ It's a simple reservation system for the band practice room of nturockclub. It w
 ## Installation
 1. Go to https://console.developers.google.com/ to create Google Sheet API credentials and put the JSON file to the current directory.And fix the blank:
 ```
+# /app.py
 scope = ["",'',"",""]
 creds = ServiceAccountCredentials.from_json_keyfile_name("YOURJSONFILE", scope)
 client = gspread.authorize(creds)
