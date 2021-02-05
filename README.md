@@ -1,6 +1,6 @@
 # linebot-booking-system
 ## Description
-It's a simple reservation system for the band practice room of nturockclub. It will ask a sequence of questions to users to get their personal information and book the practice room. It also connect with the google sheet which make the club manager easy to know who use the room at which time.\
+It's a simple reservation system for the band practice room of nturockclub. It will ask a sequence of questions to users to get their personal information and book the practice room. It also connect with the google sheet which make the club manager easy to know who use the room at which time.
 
 ## Installation
 1. Go to https://console.developers.google.com/ to create Google Sheet API credentials and put the JSON file to the current directory.And fix the blank:
