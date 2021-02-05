@@ -5,4 +5,6 @@ App Appearence: \
 <img src="READMEpic/app_appearance.jpg" width="250">\
 Google Sheet Appearence (The first row of the sheet is the time and the fist column is the date that user borrowed): \
 <img src="READMEpic/googlesheetpic.png" height="250">
+## Usage
+
 
