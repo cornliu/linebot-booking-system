@@ -18,5 +18,5 @@ Google Sheet Appearence (The first row of the sheet is the time and the fist col
 <img src="READMEpic/googlesheetpic.png" height="250">
 \
 Feel free to justified the process to fit your needs.\
-If you think it is helpful for your current project, plz press the star buttom for encouragement.\
+If you think it is helpful for your current project, plz press the star buttom for encouragement.
 
